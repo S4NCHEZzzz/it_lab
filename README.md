@@ -35,4 +35,5 @@ Landing Page: [landing](https://S4NCHEZzzz.github.io/CorchShop)
 
 # ✅ Экзаменационный билет № 9
 Ответ на экзаменационный билет доступен по ссылке: [билет №9](https://github.com/stankin/inet-2022/wiki/exam09);
+
 [Разница ревизий](https://github.com/stankin/inet-2022/wiki/exam09/_compare/1f7e25f770fd3c828eca0e8071c4c13b355ccdba);
