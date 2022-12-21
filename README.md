@@ -23,6 +23,8 @@ Web - страница с работами: https://S4NCHEZzzz.github.io/it_lab/
 2. Используемый фреймворк: ASP.NET Core MVC
 3. Используемые технологии Entity Framework Core
 
+Сслыка на репозиторий с проектом: https://github.com/S4NCHEZzzz/CorchShop
+
 # ✅ Лабораторная работа № 3
 
 Работа с Cisco Packet Tracer. 
