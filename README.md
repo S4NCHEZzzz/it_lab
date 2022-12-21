@@ -24,6 +24,7 @@ Web - страница с работами: https://S4NCHEZzzz.github.io/it_lab/
 3. Используемые технологии Entity Framework Core
 
 Сслыка на репозиторий с проектом: https://github.com/S4NCHEZzzz/CorchShop
+
 Landing Page: [landing](https://S4NCHEZzzz.github.io/CorchShop)
 
 # ✅ Лабораторная работа № 3
